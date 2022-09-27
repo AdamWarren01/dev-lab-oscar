@@ -1,9 +1,4 @@
 
-"engines": {
-  "node": "16.x",
-  "npm": "8.x"
-},
-
 {
   "name": "adamoscar",
   "version": "1.0.0",
