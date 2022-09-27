@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AdamWarren01/dev-lab-oscar#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "ejs": "^3.1.8",
     "engines": "^0.4.0",
     "express": "^4.17.1",
